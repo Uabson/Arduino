@@ -1,4 +1,5 @@
 # Arduino
 -- Simple Project With Arduino --
 
-Turn on the Light and Turn off the light.
+1- Turn on the Light and Turn off the light.
+  - Only turn on the light and turn off the light in interval of 2 seconds
